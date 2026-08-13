@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Lewiston, and I'm a product designer and software developer from Buea, Cameroon.</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Lewiston, and I'm a product designer and software developer.</h2>
 
 ###
 
