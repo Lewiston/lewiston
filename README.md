@@ -1,7 +1,5 @@
 # 👨‍💻 Mbunganu Lewiston M.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=lewiston&color=blue&style=flat-square)](https://github.com/lewiston)
-
 ## Full Stack Developer & Product Designer
 
 > I'm a creative problem-solver with a knack for blending design and development. Driven by a passion for crafting user-centric digital experiences that uplift communities, I thrive at the intersection of technology and empathy.
