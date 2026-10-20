@@ -4,11 +4,6 @@
 
 > I'm a creative problem-solver with a knack for blending design and development. Driven by a passion for crafting user-centric digital experiences that uplift communities, I thrive at the intersection of technology and empathy.
 
-### 🏢 Experience
-
-- Currently at **Bridge Labs**
-- Based in **Buea, CMR**
-
 ### 🛠️ Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Next Js](https://img.shields.io/badge/Next%20Js-333?style=for-the-badge&logo=nextjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-333?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-333?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-333?style=for-the-badge&logo=fastapi&logoColor=white) ![Insomia](https://img.shields.io/badge/Insomia-333?style=for-the-badge&logo=insomia&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-333?style=for-the-badge&logo=figma&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-333?style=for-the-badge&logo=scss&logoColor=white) ![PostGreSQL](https://img.shields.io/badge/PostGreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Directus](https://img.shields.io/badge/Directus-333?style=for-the-badge&logo=directus&logoColor=white)
